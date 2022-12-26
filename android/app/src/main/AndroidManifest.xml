@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.feen_mobily">
+    package="com.feen_mobily">
    <application
-        android:label="feen_mobily"
+        android:label="Feen Mobily"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
